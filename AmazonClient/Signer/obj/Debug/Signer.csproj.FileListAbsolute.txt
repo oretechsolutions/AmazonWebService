@@ -1,0 +1,18 @@
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\Signer\bin\Debug\Signer.dll
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\Signer\bin\Debug\Signer.pdb
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\Signer\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\Signer\bin\Debug\RestSharp.dll
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\Signer\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\Signer\bin\Debug\RestSharp.xml
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\Signer\obj\Debug\Signer.csprojResolveAssemblyReference.cache
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\Signer\obj\Debug\Signer.dll
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\Signer\obj\Debug\Signer.pdb
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\Signer\bin\Debug\Signer.dll
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\Signer\bin\Debug\Signer.pdb
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\Signer\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\Signer\bin\Debug\RestSharp.dll
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\Signer\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\Signer\bin\Debug\RestSharp.xml
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\Signer\obj\Debug\Signer.csprojResolveAssemblyReference.cache
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\Signer\obj\Debug\Signer.dll
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\Signer\obj\Debug\Signer.pdb

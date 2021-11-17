@@ -1,0 +1,19 @@
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\AmazonClient\bin\Debug\AmazonClient.exe.config
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\AmazonClient\obj\Debug\AmazonClient.csprojResolveAssemblyReference.cache
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\AmazonClient\bin\Debug\AmazonClient.exe
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\AmazonClient\bin\Debug\AmazonClient.pdb
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\AmazonClient\bin\Debug\RestSharp.dll
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\AmazonClient\bin\Debug\Signer.dll
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\AmazonClient\bin\Debug\Signer.pdb
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\AmazonClient\bin\Debug\RestSharp.xml
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\AmazonClient\obj\Debug\AmazonClient.exe
+E:\GitHub\Amazon Seller API\Selling-Partner-API\AmazonClient\AmazonClient\obj\Debug\AmazonClient.pdb
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\AmazonClient\bin\Debug\AmazonClient.exe.config
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\AmazonClient\obj\Debug\AmazonClient.exe
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\AmazonClient\obj\Debug\AmazonClient.pdb
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\AmazonClient\bin\Debug\AmazonClient.exe
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\AmazonClient\bin\Debug\AmazonClient.pdb
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\AmazonClient\bin\Debug\Signer.dll
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\AmazonClient\bin\Debug\Signer.pdb
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\AmazonClient\bin\Debug\RestSharp.xml
+E:\GitHub\AmazonWebService\AmazonSellerAPI\AmazonClient\AmazonClient\obj\Debug\AmazonClient.csprojResolveAssemblyReference.cache
